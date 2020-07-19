@@ -1,6 +1,6 @@
 # Particle_Temp_Hum_To_AWS_IoTCore
 
-A Particle project named Particle_Temp_Hum_To_AWS_IoTCore
+A Particle project to use the data gathered by the temperature and humidity sensor in connection with AWS IoT-Core.
 
 ## Welcome to your project!
 
